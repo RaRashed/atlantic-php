@@ -1,0 +1,19 @@
+{
+    "name": "atlantic/atlantic-gateway",
+    "description": "Web based gateway",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atlantic\\AtlanticGateway\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rarashed",
+            "email": "rnrashedrn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
